@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Open Secure-K OS Deployer
+Exec=gksudo /usr/lib/open-securekos-deployer-DEPLOYER_MAJOR/deployer.sh
+Terminal=false
+Type=Application
+Icon=deployer
+StartupNotify=true

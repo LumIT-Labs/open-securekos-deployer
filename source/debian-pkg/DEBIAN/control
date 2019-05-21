@@ -1,0 +1,6 @@
+Package: open-securekos-deployer
+Version: RELEASE
+Architecture: all
+Depends: gnome-shell (>= 3.14.4) | kde-window-manager (>= 4:4.11), python (>= 2.7.9-1), python-gi (>= 3.14), python-crypto (>= 0.6.0), python-pyudev (>= 0.16), python-termcolor (>= 1.1.0-1), libgtk-3-0 (>= 3.14.5), util-linux, parted (>= 3.2-7), cryptsetup (>= 2:1.6.6-5), xorriso (>= 1.3.2-1.1), mtools (>= 4.0.18-2), grub-pc (>= 2.02~beta2-22+deb8u1), gksu (>= 2.0.2-9), zenity (>= 3.14)
+Maintainer: Marco Buratto (LumIT Labs), m.buratto@lumit.it
+Description: Open Secure-K OS Deployer by LumIT Labs

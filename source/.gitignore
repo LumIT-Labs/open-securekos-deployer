@@ -1,0 +1,5 @@
+*.pyc
+*.deb
+gui.glade~
+.idea/
+
